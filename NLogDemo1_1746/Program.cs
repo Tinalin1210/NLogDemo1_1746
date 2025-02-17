@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using NLog;
 
 namespace NLogDemo1_1746
